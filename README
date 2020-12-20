@@ -1,0 +1,19 @@
+Overview:
+This tool uses OpenCV2 template matching to read data from images of Maplestory equipments.
+
+Requirements:
+OpenCV2
+Numpy
+PrettyPrint (optional)
+
+Usage:
+Save image of equipment in Input folder
+*images must be in png format for now
+Run test.py
+
+Todo:
+-finish adding templates
+	-m. att
+	-crit damage
+	-other..
+-Find a faster way to get equip image
